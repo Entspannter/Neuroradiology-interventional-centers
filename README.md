@@ -6,7 +6,7 @@ This repository contains the resulting itneractive figures of the geographic cov
 
 - **Objective:** Evaluate the spatial distribution and accessibility of neurointerventional centers.  
 - **Methods:** Geospatial analysis using OpenStreetMap (OSM) data, isochrone calculations with openrouteservice, and population coverage estimation with the Global Human Settlement Population Grid (GHS-POP).  
-- **Visualization:** Interactive figures displaying results from the analysis.  
+- **Visualization:** Interactive figures displaying results from the analysis. The visualization can be accessed via [this link](/interactive_map_modules.html).
 
 ## Results  
 
